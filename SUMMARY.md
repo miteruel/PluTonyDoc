@@ -16,7 +16,7 @@
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
+* [Projects](fundamentals/project-dependences.md)
 * [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)

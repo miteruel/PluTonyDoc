@@ -6,10 +6,9 @@ description: >-
 
 # Hello Jupyter
 
-{% hint style="info" %}
-**Good to know:** [\[Jupyter\]](https://jupyter.org) can import \*.pyd files as a Python module and execute published functions using python syntax.
-{% endhint %}
-
+> 
+> **Good to know:** [\[Jupyter\]](https://jupyter.org) can import \*.pyd files as a Python module and execute published functions using python syntax.
+> 
 ## The basics
 
 The example demo09 from the Python4Delphi library is a first example and is perfectly executable from Jupyter.

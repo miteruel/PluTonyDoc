@@ -52,9 +52,9 @@ This text is a small guide that describes some ways to make this connection usin
 > 
 
 
-### Fundamentals: Dive a little deeper
+### Fundamentals: 
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+Some concepts and  dependences. 
 
 
 * [What is Jupyter](fundamentals/what-is-jupyter.md)

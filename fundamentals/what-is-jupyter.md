@@ -22,9 +22,7 @@ displayed in the console, you can see, copy the result and paste it
 somewhere to document the code or reuse it in some way in the code
 itself. The difference is that with Jupyter it is much faster, clearer,
 more organized, more intuitive and natural.
-
-{width="6.267716535433071in"
-height="4.444444444444445in"}
+![](https://jupyter.org/assets/homepage/labpreview.webp)
 
 Jupyter can interface with many languages, although its most popular
 uses are Python and R. If you want to learn one of them, you can use

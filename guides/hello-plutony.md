@@ -6,11 +6,10 @@ description: >-
 
 # Hello Plutony
 
-{% hint style="info" %}
-Now the real adventure begins, the unexplored part. It doesn't matter if we come from delphi or python, we can understand each other and share tools to establish PluTony colony.
-{% endhint %}
-
-
+> 
+> Now the real adventure begins, the unexplored part. It doesn't matter if we come from delphi or python, we can understand each other and share tools to establish PluTony colony.
+> 
+> 
 
 P4D itself comes with many components out of the box.
 
