@@ -57,10 +57,9 @@ This text is a small guide that describes some ways to make this connection usin
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
 
-* [projects.md](fundamentals/projects.md)
-* [members.md](fundamentals/members.md)
-* [task-lists.md](fundamentals/task-lists.md)
-* [tasks.md](fundamentals/tasks.md)
+* [What is Jupyter](fundamentals/what-is-jupyter.md)
+* [Python vs Pascal](fundamentals/python-vs-pascal.md)
+* [Other project dependences](fundamentals/project-dependences.md)
 
 > 
 > Splitting PluTony into fundamental concepts, objects, or areas.
