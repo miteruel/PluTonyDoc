@@ -6,9 +6,8 @@ description: Pascal in Jupyter.
 
 ![](.gitbook/assets/logoply1.png)
 
-{% hint style="info" %}
-&#x20;PluTony was born as an experiment with the objective of "connecting" [\[Jupyter\]](https://jupyter.org), with programs made in Pascal.
-{% endhint %}
+PluTony was born as an experiment with the objective of "connecting" [\[Jupyter\]](https://jupyter.org), with programs made in Pascal.
+
 
 The concept "connect" is intentionally ambiguous. Since there are many ways to connect and not all of them may be useful in the real world of your application scenario.
 
@@ -31,27 +30,21 @@ An obvious way to get data is to generate json or csv files and read them from j
 
 This text is a small guide that describes some ways to make this connection using popular libraries. As if it were a trip I will call them routes, and in which I will try to describe the path. The source code encapsulates these connections, in the simplest possible and composable structures, which you can combine according to the context.
 
+ 
+> 
+> The code in [**\[MVP\]**](https://en.wikipedia.org/wiki/Minimum\_viable\_product) Each component has a complete functionality, but in minimal expression.
+> 
 
-
-{% hint style="info" %}
-The code in [**\[MVP\]**](https://en.wikipedia.org/wiki/Minimum\_viable\_product) Each component has a complete functionality, but in minimal expression.
-{% endhint %}
-
-### Guides:&#x20;
+### Guides:
 
 This text is a small guide that describes some ways to make this connection using popular libraries. As if it were a trip I will call them routes, and in which I will try to describe the path. The source code encapsulates these connections, in the simplest possible and composable structures, which you can combine according to the context.
 
-{% content-ref url="guides/hello-jupyter.md" %}
-[hello-jupyter.md](guides/hello-jupyter.md)
-{% endcontent-ref %}
 
-{% content-ref url="guides/hello-plutony.md" %}
-[hello-plutony.md](guides/hello-plutony.md)
-{% endcontent-ref %}
+* [hello-jupyter.md](guides/hello-jupyter.md)
 
-{% content-ref url="guides/hello-script.md" %}
-[hello-script.md](guides/hello-script.md)
-{% endcontent-ref %}
+* [hello-plutony.md](guides/hello-plutony.md)
+
+* [hello-script.md](guides/hello-script.md)
 
 {% hint style="info" %}
 **Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
