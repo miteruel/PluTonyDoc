@@ -1,9 +1,8 @@
+# Kernel Pascal
+
 ---
 description: Create an iPython Kernel for Pascal.
 ---
-
-# Kernel Pascal
-
 We have already seen that we can set up a Broker, to which we can subscribe different script services, such as workers of different programs and servers. What we want is to communicate the Kernel class to the Broker service.
 
 As a first example, we will start with a simple wrapper in python code.

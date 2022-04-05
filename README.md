@@ -35,7 +35,7 @@ This text is a small guide that describes some ways to make this connection usin
 > The code in [**\[MVP\]**](https://en.wikipedia.org/wiki/Minimum\_viable\_product) Each component has a complete functionality, but in minimal expression.
 > 
 
-### Guides:
+### Routes/Guides:
 
 This text is a small guide that describes some ways to make this connection using popular libraries. As if it were a trip I will call them routes, and in which I will try to describe the path. The source code encapsulates these connections, in the simplest possible and composable structures, which you can combine according to the context.
 
@@ -46,30 +46,23 @@ This text is a small guide that describes some ways to make this connection usin
 
 * [hello-script.md](guides/hello-script.md)
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+
+> 
+> This guides matches with source code samples.
+> 
+
 
 ### Fundamentals: Dive a little deeper
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
-{% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
-{% endcontent-ref %}
+* [projects.md](fundamentals/projects.md)
+* [members.md](fundamentals/members.md)
+* [task-lists.md](fundamentals/task-lists.md)
+* [tasks.md](fundamentals/tasks.md)
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
+> 
+> Splitting PluTony into fundamental concepts, objects, or areas.
+> 
+> 
