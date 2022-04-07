@@ -4,11 +4,11 @@ description: ( Jupyter→0MQ→ Delphi→FastScript )
 
 # hello script
 
-{% hint style="info" %}
-Let's forget about Jupyter for a moment, and think only about how to run pascal scripts in your application, as simply as possible.
-{% endhint %}
+> 
+> Let's forget about Jupyter for a moment, and think only about how to run pascal scripts in your application, as simply as possible.
+> 
 
-&#x20;It is easy to use any script library, but it has quite a few limitations. Not only because of the power of the language itself, but you have to program some connections with your other elements for it to have any use. This is the crux of the problem, if you have a good script system in your applications, you are already half way there.
+It is easy to use any script library, but it has quite a few limitations. Not only because of the power of the language itself, but you have to program some connections with your other elements for it to have any use. This is the crux of the problem, if you have a good script system in your applications, you are already half way there.
 
 Including a script engine in your programs is a very clever way to extend functionality. If you use them, you may already have some connections made with internal components of your program. It's about being able to reuse this within python and Jupyter, and similar to what we did with TBindingExpression you can include a python function that runs more complex Pascal scripts.
 

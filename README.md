@@ -1,7 +1,3 @@
----
-description: Pascal in Jupyter.
----
-
 # What is PluTony?
 
 ![](.gitbook/assets/logoply1.png)
@@ -41,6 +37,10 @@ This text is a small guide that describes some ways to make this connection usin
 * [hello-jupyter.md](guides/hello-jupyter.md)
 
 * [hello-plutony.md](guides/hello-plutony.md)
+
+* [hello-zeromq.md](guides/hello-zeromq.md)
+
+* [hello-evaluator.md](guides/hello-evaluator.md)
 
 * [hello-script.md](guides/hello-script.md)
 
