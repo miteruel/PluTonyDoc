@@ -28,8 +28,6 @@ The concept "connect" is intentionally ambiguous. Since there are many ways to c
 
 An obvious way to get data is to generate json or csv files and read them from jupyter. Somewhat more sophisticated, you can run your program passing parameters and get a variable result. But it is not my goal to delve into this way, as it is described elsewhere (the bass kernel) and is not unique to Delphi.
 
-This text is a small guide that describes some ways to make this connection using popular libraries. As if it were a trip I will call them routes, and in which I will try to describe the path. The source code encapsulates these connections, in the simplest possible and composable structures, which you can combine according to the context.
-
  
 > 
 > The code in [**\[MVP\]**](https://en.wikipedia.org/wiki/Minimum\_viable\_product) Each component has a complete functionality, but in minimal expression.
