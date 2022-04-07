@@ -1,8 +1,8 @@
 # Python vs Pascal
 
-{width="2.09375in"
-height="2.6145833333333335in"}{width="2.3958333333333335in"
-height="2.28125in"}
+
+
+![](.gitbook/assets/pythonvspascal.png)
 
 The first thing I did was look up whether there was Jupyter support for
 Pascal or Delphi. But there was nothing really definitive that would
@@ -37,8 +37,6 @@ But keep in mind that if you only want to use pascal from jupyter, it
 will be much more difficult to use other typical python tools and
 libraries, unless you make complex specific interfaces for each one.
 
-{width="1.0416666666666667in"
-height="1.0416666666666667in"}
 
 Python
 
