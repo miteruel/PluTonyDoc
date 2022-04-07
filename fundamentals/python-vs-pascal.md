@@ -2,7 +2,7 @@
 
 
 
-![](.gitbook/assets/pythonvspascal.png)
+![](/.gitbook/assets/pythonvspascal.png)
 
 The first thing I did was look up whether there was Jupyter support for
 Pascal or Delphi. But there was nothing really definitive that would
