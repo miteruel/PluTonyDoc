@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="E:\python\miteruel\02HelloPlutony\Test_HelloPlutony.exe" total="1" errors="1" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2022-04-04" time="0.076">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="Test_HelloPlutony.exe" executed="true" result="Failure" success="False" time="0.076" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="Test_Basic_Jupyter" executed="true" result="Success" success="True" time="0.076" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TTestMonaPython" executed="True" result="Success" success="True" time="0.076" >
+                <results>
+                  <test-case name="runPython" executed="True" result="Error" success="False" time="0.072" asserts="0" >
+                    <failure>
+                      <message>
+                        <![CDATA[ AttributeError: Error in getting property "Mor".
+Error: Unknown attribute ]]>
+                      </message>
+                      <stack-trace>
+                        <![CDATA[  ]]>
+                      </stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
