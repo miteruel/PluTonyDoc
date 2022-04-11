@@ -24,23 +24,15 @@ The concept "connect" is intentionally ambiguous. Since there are many ways to c
 
 It is necessary to have the main tools installed.
 
-Download and install Python.
-downloadPython .
-Install Jupyter 
-JupyterLab
-pip install jupyterlab
-jupyter-lab
-Jupyter Notebook
-pip install notebook
-
-You must compile and execute one of following executables. This runs ZeroBroker router using different pascal script engines.
-05HelloFastScript\ZeroFastScript
-06HelloDWS\ZeroDWS
-07HelloRemPascalScript\ZeroRem
-10PascalKernel\PlutonyKernel
-You must register the new pascal-kernelm wich connects with previous Brokers.
-execute zerokernel\run_install.bat
-jupyter notebook
+1. Download and install Python. [download Python](https://www.python.org/downloads/) 
+2. Install Jupyter. > pip install notebook
+3. You must compile and execute one of following executables. This runs ZeroBroker router using different pascal script engines.
+ * 05HelloFastScript\ZeroFastScript
+ * 06HelloDWS\ZeroDWS
+ * 07HelloRemPascalScript\ZeroRem
+ * 10PascalKernel\PlutonyKernel
+4. You must register the new pascal-kernelm wich connects with previous Brokers.  >zerokernel\run_install.bat
+5. Run Jupyter: > jupyter notebook
 
 
  
