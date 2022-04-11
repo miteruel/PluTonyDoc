@@ -40,8 +40,9 @@ It is necessary to have the main tools installed.
 > The code in [**\[MVP\]**](https://en.wikipedia.org/wiki/Minimum\_viable\_product) Each component has a complete functionality, but in minimal expression.
 > 
 
-You can access to runtime example in
+You can access to runtime example in 
 [PluTony exanoke](https://ee62-88-6-67-95.ngrok.io)
+password:amigos1
 
 > Sorry if link is broken, actually i run it in a virtual envitoment and not 100% accesible.
 > You can contribute by setting online brokers or jupyter node examples, send me an email to mrgarciagarcia@gmail.com for more details.
