@@ -22,7 +22,26 @@ The concept "connect" is intentionally ambiguous. Since there are many ways to c
 
 ![](.gitbook/assets/image5.png)
 
-An obvious way to get data is to generate json or csv files and read them from jupyter. Somewhat more sophisticated, you can run your program passing parameters and get a variable result. But it is not my goal to delve into this way, as it is described elsewhere (the bass kernel) and is not unique to Delphi.
+It is necessary to have the main tools installed.
+
+Download and install Python.
+downloadPython .
+Install Jupyter 
+JupyterLab
+pip install jupyterlab
+jupyter-lab
+Jupyter Notebook
+pip install notebook
+
+You must compile and execute one of following executables. This runs ZeroBroker router using different pascal script engines.
+05HelloFastScript\ZeroFastScript
+06HelloDWS\ZeroDWS
+07HelloRemPascalScript\ZeroRem
+10PascalKernel\PlutonyKernel
+You must register the new pascal-kernelm wich connects with previous Brokers.
+execute zerokernel\run_install.bat
+jupyter notebook
+
 
  
 > 
@@ -33,16 +52,17 @@ An obvious way to get data is to generate json or csv files and read them from j
 
 This text is a small guide that describes some ways to make this connection using popular libraries. As if it were a trip I will call them routes, and in which I will try to describe the path. The source code encapsulates these connections, in the simplest possible and composable structures, which you can combine according to the context.
 
+An obvious way to get data is to generate json or csv files and read them from jupyter. Somewhat more sophisticated, you can run your program passing parameters and get a variable result. But it is not my goal to delve into this way, as it is described elsewhere (the bass kernel) and is not unique to Delphi.
+
 
 * [hello-jupyter.md](guides/hello-jupyter.md)
-
 * [hello-plutony.md](guides/hello-plutony.md)
-
 * [hello-zeromq.md](guides/hello-zeromq.md)
-
 * [hello-evaluator.md](guides/hello-evaluator.md)
-
 * [hello-script.md](guides/hello-script.md)
+* [hello-dws.md](guides/hello-dws.md)
+* [hello-rem.md](guides/hello-rem.md)
+* [kernel-pascal.md](guides/kernel-pascal.md)
 
 
 > 
