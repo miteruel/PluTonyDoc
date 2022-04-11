@@ -31,13 +31,20 @@ It is necessary to have the main tools installed.
  * 06HelloDWS\ZeroDWS
  * 07HelloRemPascalScript\ZeroRem
  * 10PascalKernel\PlutonyKernel
-4. You must register the new pascal-kernelm wich connects with previous Brokers.  >zerokernel\run_install.bat
+4. You must register the new pascal-kernel, wich connects with previous Brokers.  >zerokernel\run_install.bat
 5. Run Jupyter: > jupyter notebook
 
 
  
 > 
 > The code in [**\[MVP\]**](https://en.wikipedia.org/wiki/Minimum\_viable\_product) Each component has a complete functionality, but in minimal expression.
+> 
+
+You can access to runtime example in
+[PluTony exanoke](https://ee62-88-6-67-95.ngrok.io)
+
+> Sorry if link is broken, actually i run it in a virtual envitoment and not 100% accesible.
+> You can contribute by setting online brokers or jupyter node examples, send me an email to mrgarciagarcia@gmail.com for more details.
 > 
 
 ### Routes/Guides:
